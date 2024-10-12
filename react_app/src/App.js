@@ -440,7 +440,7 @@ function App() {
                     </div>
                 </div>
                 <div className="Group" style={{ width: 576, height: 85, left: 560, top: 172, position: 'absolute' }}>
-                    <div className="Vector" style={{ width: 576, height: 85, left: 0, top: 0, position: 'absolute', background: '#1A1B28' }}></div>
+                    <div className="Vector" style={{ width: 600, height: 85, left: -100, top: 0, position: 'absolute', background: '#1A1B28' }}></div>
                     <div className="Group" style={{ width: 540.28, height: 65.69, left: 17.87, top: 9.67, position: 'absolute' }}>
                         <div className="Vector" style={{ width: 17.11, height: 32.19, left: 0, top: 0, position: 'absolute', background: '#605553' }}></div>
                         <div className="Vector" style={{ width: 6.44, height: 15, left: 10.67, top: 32.19, position: 'absolute', background: '#DCD3C2' }}></div>
@@ -450,8 +450,8 @@ function App() {
                         <div className="Vector" style={{ width: 6.44, height: 9.24, left: 523.14, top: 56.45, position: 'absolute', background: '#403A3F' }}></div>
                     </div>
                 </div>
-                <div className="Gallery" style={{ width: 317, height: 63, left: 689, top: 184, position: 'absolute', color: 'white', fontSize: 72, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>GALLERY</div>
-                <div className="Rectangle33" style={{ width: 708, height: 563, left: 113, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
+                <div className="Gallery" style={{ width: 480, height: 40, left: 580, top: 184, position: 'absolute', color: 'white', fontSize: 72, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>GALLERY</div>
+                <div className="Rectangle33" style={{ width: 680, height: 480, left: 113, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
                 <div className="Rectangle34" style={{ width: 436, height: 278, left: 867, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
                 <div className="Rectangle36" style={{ width: 246, height: 563, left: 1349, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
                 <div className="Rectangle35" style={{ width: 436, height: 235, left: 871, top: 653, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
