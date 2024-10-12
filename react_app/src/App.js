@@ -14,7 +14,7 @@ function App() {
             <div className="Gallery" style={{ width: '100%', height: '100%', position: 'relative' }}>
                 <div className="Group23" style={{ width: '100%', height: 'auto', left: -1, top: -157, position: 'absolute' }}>
                     <div className="Rectangle3" style={{ width: 1695, height: 244, left: 0, top: 0, position: 'absolute', background: 'black', backdropFilter: 'blur(1000000px)' }} />
-                    <div className="Group9" style={{ width: 1351, height: 24, left: 172, top: 194, position: 'absolute' }}>
+                    <div className="Group9" style={{ width: 1351, height: 24, left: 76, top: 194, position: 'absolute' }}>
                         <div className="About" style={{ width: 74.13, left: 0, top: 0, position: 'absolute', color: 'white', fontSize: 25, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>About</div>
                         <div className="Competitions" style={{ width: 162.65, left: 110.65, top: 0, position: 'absolute', color: 'white', fontSize: 25, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>Competitions</div>
                         <div className="Events" style={{ width: 82.99, left: 312.02, top: 0, position: 'absolute', color: 'white', fontSize: 25, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>Events</div>
@@ -440,7 +440,7 @@ function App() {
                     </div>
                 </div>
                 <div className="Group" style={{ width: 576, height: 85, left: 560, top: 172, position: 'absolute' }}>
-                    <div className="Vector" style={{ width: 600, height: 85, left: -100, top: 0, position: 'absolute', background: '#1A1B28' }}></div>
+                    <div className="Vector" style={{ width: 600, height: 85, left: -100, top: -70, position: 'absolute', background: '#1A1B28' }}></div>
                     <div className="Group" style={{ width: 540.28, height: 65.69, left: 17.87, top: 9.67, position: 'absolute' }}>
                         <div className="Vector" style={{ width: 17.11, height: 32.19, left: 0, top: 0, position: 'absolute', background: '#605553' }}></div>
                         <div className="Vector" style={{ width: 6.44, height: 15, left: 10.67, top: 32.19, position: 'absolute', background: '#DCD3C2' }}></div>
@@ -450,11 +450,11 @@ function App() {
                         <div className="Vector" style={{ width: 6.44, height: 9.24, left: 523.14, top: 56.45, position: 'absolute', background: '#403A3F' }}></div>
                     </div>
                 </div>
-                <div className="Gallery" style={{ width: 480, height: 40, left: 580, top: 184, position: 'absolute', color: 'white', fontSize: 72, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>GALLERY</div>
-                <div className="Rectangle33" style={{ width: 680, height: 480, left: 113, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
-                <div className="Rectangle34" style={{ width: 436, height: 278, left: 867, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
-                <div className="Rectangle36" style={{ width: 246, height: 563, left: 1349, top: 325, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
-                <div className="Rectangle35" style={{ width: 436, height: 235, left: 871, top: 653, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
+                <div className="Gallery" style={{ width: 480, height: 40, left: 580, top: 100, position: 'absolute', color: 'white', fontSize: 72, fontFamily: 'Cyber Chunk Font', fontWeight: '400', wordWrap: 'break-word' }}>GALLERY</div>
+                <div className="Rectangle33" style={{ width: 490, height: 580, left: 80, top: 220, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
+                <div className="Rectangle34" style={{ width: 436, height: 278, left: 630, top: 220, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
+                <div className="Rectangle36" style={{ width: 246, height: 563, left: 1120, top: 220, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
+                <div className="Rectangle35" style={{ width: 436, height: 278, left: 630, top: 520, position: 'absolute', background: 'rgba(217, 217, 217, 0.62)' }} />
             </div>
             </div>
         </div>
